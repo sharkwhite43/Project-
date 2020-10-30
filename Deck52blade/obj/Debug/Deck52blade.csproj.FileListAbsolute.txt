@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\project Poke deng\Deck52blade\bin\Debug\Deck52blade.dll
+C:\Users\asus\source\repos\project Poke deng\Deck52blade\bin\Debug\Deck52blade.pdb
+C:\Users\asus\source\repos\project Poke deng\Deck52blade\obj\Debug\Deck52blade.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\project Poke deng\Deck52blade\obj\Debug\Deck52blade.dll
+C:\Users\asus\source\repos\project Poke deng\Deck52blade\obj\Debug\Deck52blade.pdb
+C:\Users\asus\source\repos\project Poke deng\Deck52blade\obj\Debug\Deck52blade.csprojAssemblyReference.cache
